@@ -7,7 +7,6 @@
 ## How-to-use
 
 ```
-$ docker pull ababup1192/aojstatusbroadcaster
 $ docker-compose up -d
 $ docker-compose down
 ```
