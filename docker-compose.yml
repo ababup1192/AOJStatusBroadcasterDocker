@@ -1,5 +1,5 @@
 web:
-  image: "ababup1192/aojstatusbroadcaster:0.1"
+  image: "ababup1192/aojstatusbroadcaster:release"
   ports:
     - "10052:10052"
 nginx:
